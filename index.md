@@ -12,5 +12,3 @@
 
 [Report](files/Rapor360proje.docx) of the term project is here as word file.
 
-
-[Report](files/Group4-ProjectReport/Rapor360proje.html) of the term project is here as word file.
