@@ -4,4 +4,6 @@
 
 [Here](files/example_homework_0.html) is my 5 interesting R examples.
 
-[Report](files/code.R) of the term project is here.
+[RFileofCode](files/code.R) of the term project is here.
+[Report](files/Rapor360Proje.htm) of the term project is here.
+
